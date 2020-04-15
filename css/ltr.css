@@ -1,0 +1,4 @@
+#page-content > * {
+	direction: ltr !important;
+	text-align: left !important;
+}
